@@ -1,9 +1,13 @@
 package fr.istic.vv;
 
-import junit.framework.TestCase;
+import org.junit.Test;
 
-public class SampleELOTest extends TestCase {
+import static org.junit.Assert.assertFalse;
+import static org.junit.Assert.assertTrue;
 
+public class SampleELOTest {
+
+    @Test
     public void testIsBigger() throws Exception {
         SampleELO sampleELO = new SampleELO();
 
