@@ -35,10 +35,10 @@ public class AfeTest extends TestCase
 
     }
 
-    public void testApp2()
-    {
-        MathAfe math = new MathAfe();
-        assertEquals(1+1,math.add(2,1));
-
-    }
+//    public void testApp2()
+//    {
+//        MathAfe math = new MathAfe();
+//        assertEquals(1+1,math.add(2,1));
+//
+//    }
 }
