@@ -1,5 +1,6 @@
-package fr.istic.vv;
+package fr.istic.vv.elo;
 
+import fr.istic.vv.elo.SampleELO;
 import org.junit.Test;
 
 import static org.junit.Assert.assertFalse;
