@@ -1,4 +1,4 @@
-package fr.istic.vv;
+package fr.istic.vv.elo;
 
 /**
  *  Replace a comparison operator by another given
