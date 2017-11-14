@@ -23,16 +23,16 @@ public class OperatorOneTest extends TestCase {
         }
     }
 
-    @Test
-    public void testBodyMethod() throws Exception {
-        try {
-            OperatorOne op = new OperatorOne();
-            op.doesAEqualTen();
-            assertEquals(5, op.getB());
-        }
-        catch (Exception e) {
-            throw e;
-        }
-    }
+//    @Test
+//    public void testBodyMethod() throws Exception {
+//        try {
+//            OperatorOne op = new OperatorOne();
+//            op.doesAEqualTen();
+//            assertEquals(5, op.getB());
+//        }
+//        catch (Exception e) {
+//            throw e;
+//        }
+//    }
 
 }

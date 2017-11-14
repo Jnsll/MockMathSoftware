@@ -7,7 +7,6 @@ public class OperatorOne {
 
     // Methods
     public boolean doesAEqualTen() {
-        this.setB(5);
         return (this.a == 10);
     }
 
